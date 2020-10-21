@@ -4,7 +4,9 @@ Will include the codes tried out for ICPR EndoTect
 
 Link to the challenge website for any clarification: https://www.endotect.com/
 
-Data Pipeline Notebook: https://colab.research.google.com/drive/10YfqratWqJ6VnpPaKDBPwyqCCq8CZzGu?usp=sharing
+### Data Pipeline Notebook : 
+
+https://colab.research.google.com/drive/1b6G0BtESxkY98oVpEWjw3zYhlmrPc71m?usp=sharing
 
 
 ### Exploring
