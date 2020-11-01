@@ -11,7 +11,7 @@ https://github.com/simula/endotect-2020-sample-submission
 contains model and data pipeline code -> https://colab.research.google.com/drive/1b6G0BtESxkY98oVpEWjw3zYhlmrPc71m?usp=sharing
 
 ### Segmentation Pipeline:
-https://colab.research.google.com/drive/1UEpUCGrmAcsyNqB--avrUTu8W-G7NOT2?usp=sharing
+https://colab.research.google.com/drive/1UwYrWzDj1YQV7i51k9Qq1kxxiTpYw2e-?usp=sharing
 
 ### Exploring
 
